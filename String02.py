@@ -6,4 +6,7 @@ def main():
     Returns:
         str: return answer.
     """
-    return 
+    a="codeschooluz"
+    b="pythonuz"
+    return a.upper(), b.upper()
+print(main())
